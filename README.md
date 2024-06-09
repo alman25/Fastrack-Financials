@@ -1,10 +1,11 @@
-🐕‍🦺	Guidelines														
-	"In this file, you'll find the financial data for the year 2023 of Fastrack, a small online retailer, operated by Alex. 
+"In this file, you'll find the financial data for the year 2023 of Fastrack, a small online retailer, operated by Alex. 
+
 "														
-	Alex is a customer of LiveFlow and seeks your assistance in building a dynamic dashboard to review his financial numbers. Additionally, he values your advice on optimizing his overall business strategy.														
+	Alex is a customer of LiveFlow and seeks your assistance in building a dynamic dashboard to review his financial numbers. Additionally, he values your advice on optimizing his overall business strategy.	
+ 
 	The data includes the 2023 Budget, the 2023 P&L Actuals, and the 2023 Balance Sheet Actuals., along with a list of vendors for 2023														
 															
-📊	1) Dashboard														
+Dashboard														
 	Alex would like your help in creating a business snapshot dashboard that highlights key financial metrics.  														
 	Your dashboard must capture the below:	
  
